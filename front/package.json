@@ -151,7 +151,7 @@
         "espree": "9.6.1",
         "glob": "^10.3.10",
         "immutable": "4.3.2",
-        "postcss": "8.4.28",
+        "postcss": "8.4.31",
         "prettier": "3.0.2",
         "promise": "8.3.0",
         "react-app-rewired": "2.2.1",
